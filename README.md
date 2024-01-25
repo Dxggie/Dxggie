@@ -16,7 +16,7 @@
 </a>
 
 
-<img src="https://github.com/Dxggie/Dxggie/blob/output/github-snake-dark.svg" width="100%">
+
 
 
 
