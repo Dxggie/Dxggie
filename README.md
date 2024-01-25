@@ -4,7 +4,7 @@
 
 [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dxggie&include_all_commits=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
 
-<img src="https://github.com/Dxggie/Dxggie/blob/output/dist/github-snake-dark.svg" width="100%">
+<img src="https://github.com/깃허브ID/깃허브ID/blob/output/github-snake-dark.svg" width="100%">
 
 
 
